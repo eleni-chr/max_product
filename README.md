@@ -1,2 +1,2 @@
 # max_product
-Takes v, a vector and n, a positive integer, as inputs and computes the largest product of n consecutive elements of v. It returns the product and the index of the element of v that is the first term of the product.
+The function takes v, a vector and n, a positive integer, as inputs and computes the largest product of n consecutive elements of v. It returns the product and the index of the element of v that is the first term of the product. If there are multiple such products in v, the function must return the one with the smallest starting index. If v has fewer than n elements, the function returns 0 and -1, respectively.
